@@ -14,3 +14,5 @@ Now create a sap.m.Text UI element with the text Hello Word and place it in the 
   var oText = new sap.m.Text({text: "Hello World"});
   oText.placeAt("content");
 </script>
+****Body Tag*********
+Add the class="sapUiBody" and id="content" attributes to the <body> tag.
